@@ -1,5 +1,7 @@
 Recording mousemovement with PyAutoGUi
 
+# This should be run at Command Prompt. Don't run In IDLE. You won't get correct output.
+
 ## At a high level, here’s what your program should do:
 
 1) Display the current x- and y-coordinates of the mouse cursor.
